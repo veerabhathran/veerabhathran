@@ -20,8 +20,10 @@ public class example7 {
         	   {
         		   System.out.println("the number is odd");
         	   }
+        	  
+           }
+           else
         	   
-        	   else
         	   {
         		   System.out.println(" The person is negative ");
         	   }
@@ -31,4 +33,4 @@ public class example7 {
            
 	}
 
-}
+
